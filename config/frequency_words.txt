@@ -3,6 +3,7 @@ AI
 大语言模型
 LLM
 智能体
+代理
 Agent
 提示词
 Prompt
@@ -12,9 +13,12 @@ Prompt
 生语音
 生音乐
 AI生成
+生成式AI
 AIGC
+编程
 模型
 算法
+算力
 开源
 闭源
 
