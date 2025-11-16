@@ -118,6 +118,7 @@ bytedance
 GLM
 深度求索
 DeepSeek
+MiniMax
 
 Midjourney
 Nano Banana
