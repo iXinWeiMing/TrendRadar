@@ -15,7 +15,7 @@ Prompt
 AI生成
 生成式AI
 AIGC
-编程
+程序
 模型
 算法
 算力
