@@ -170,6 +170,7 @@ Meta
 Facebook
 微软
 Microsoft
+Copilot
 谷歌
 Google
 VEO
