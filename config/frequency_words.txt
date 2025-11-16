@@ -121,10 +121,13 @@ Pomelli
 WorldLabs
 Marble
 
-宇树
-Unitree
 机器人
 Robotics
+宇树
+Unitree
+小鹏
+IRON
+Figure
 
 特斯拉
 Tesla
@@ -143,7 +146,6 @@ Deepmind
 OpenAI
 ChatGPT
 Sora
-Anthropic
 Claude
 Perplexity
 
@@ -154,9 +156,6 @@ NPU
 英伟达
 NVIDIA
 黄仁勋
-英特尔
-Intel
-AMD
 
 黑科技
 物理
