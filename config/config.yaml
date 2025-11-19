@@ -151,6 +151,8 @@ platforms:
     name: "少数派"
   - id: "producthunt"
     name: "ProductHunt"
+  - id: "coolapk"
+    name: "酷安"
 
   # === 其他/工具类 ===
   - id: "chongbuluo"
