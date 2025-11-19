@@ -102,15 +102,17 @@ AIGC
 阿里
 通义
 千问
-万相
 Qwen
+万相
+Wan
 月之暗面
 Moonshot
-Kimi 
+Kimi
 字节跳动
 bytedance
 豆包
 抖音
+TikTok
 腾讯
 元宝
 智谱
@@ -125,6 +127,7 @@ Google
 VEO
 Gemini
 Deepmind
+Imagen
 OpenAI
 ChatGPT
 Sora
@@ -140,6 +143,7 @@ Meta
 Midjourney
 Flash Image
 Nano Banana
+IMAGIN
 Leonardo
 FLUX
 KLING
@@ -155,6 +159,12 @@ Udio
 Mureka
 ElevenLabs
 Tunee
+Topaz
+Lip Sync
+剪映
+CapCut
+Filmora
+Premiere
 
 Coze
 Dify
@@ -171,6 +181,8 @@ HeyGen
 Pomelli
 WorldLabs
 Marble
+Code
+Coding
 
 机器人
 Robotics
