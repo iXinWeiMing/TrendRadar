@@ -47,6 +47,7 @@ VFX
 视频
 影片
 电影
+电视
 动画
 漫画
 网剧
@@ -83,6 +84,7 @@ VFX
 网文
 设计
 客服
+办公
 网站
 +AI
 
@@ -124,6 +126,7 @@ VFX
 解决
 落地
 转型
+成本
 降本增效
 +AI
 
@@ -131,6 +134,7 @@ VFX
 技术
 融资
 估值
+市值
 独角兽
 黑马
 资本
@@ -186,7 +190,7 @@ VFX
 管理
 应用
 虚拟
-空间
+3D
 工作流
 RAG
 知识库
@@ -201,6 +205,7 @@ RAG
 手机
 眼镜
 无人机
+低空
 能源
 发电
 核聚变
@@ -211,11 +216,11 @@ RAG
 虚拟现实
 数字分身
 数字孪生
-虚拟货币
-加密货币
-数字人民币
+具身智能
+空间智能
 区块链
-量子
+量子计算
+算力中心
 
 谷歌
 Google
@@ -238,7 +243,6 @@ NPU
 TPU
 +AI
 
-医疗
 生命
 健康
 睡眠
@@ -277,6 +281,7 @@ Comet
 Cursor
 Code
 Coding
+Vibe
 
 Midjourney
 Flash Image
@@ -294,7 +299,6 @@ Hailuo
 Dreamina
 Seedream
 Suno
-Udio
 Mureka
 Tunee
 ElevenLabs
