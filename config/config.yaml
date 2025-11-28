@@ -117,6 +117,8 @@ platforms:
     name: "MKT新闻"
   - id: "kaopu"
     name: "靠谱新闻"
+  - id: "tencent-hot"
+    name: "腾讯新闻"
 
   # === 财经投资类 ===
   - id: "wallstreetcn-hot"
